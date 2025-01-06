@@ -1,1 +1,1 @@
-# Basic-inventory-management-system
+Python script that simulates a basic inventory management system for a small business. It's about 100 lines long and includes functionality for adding, removing, and displaying inventory items, as well as checking stock levels.
